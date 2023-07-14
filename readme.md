@@ -1,4 +1,4 @@
-# Meu Site 🌟
+# Site 🌟
 
 Este é um projeto de site criado com HTML, CSS e JavaScript. O site possui um menu com 5 botões, um corpo com texto em Lorem Ipsum, um banner em JavaScript abaixo do menu e um rodapé.
 
